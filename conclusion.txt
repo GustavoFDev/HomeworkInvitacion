@@ -1,0 +1,24 @@
+Gustavo Flores Mejia
+No control: 210120167
+
+
+-------- Conclucion --------
+
+En este trabajo, se pudo poner en práctica lo básico de HTML, 
+que nos permitió dar una introducción a la estructura de HTML y los elementos 
+básicos que se pueden implementar. HTML es un lenguaje de marcado que nos 
+permite facilitar la estructura de la página, es como la retícula, solo es 
+la información para posteriormente darle sentido y acomodo.
+
+HTML no es muy amigable con los estilos, hablando en caso de 
+que se implemente solo. Es aquí donde CSS puede ser de gran ayuda para que 
+la página sea más digerible visualmente hablando. Despues se podria implementar
+CSS con las hojas de estilo con el cual se puede estilizar la página, para decirle a los 
+navegadores que cambien el color, fuente, diseño entre otras cosas.
+
+En resumen, HTML proporciona la estructura y el contenido de la página, 
+mientras que CSS se encarga del diseño y la presentación visual. Con estos dos 
+lenguajes, se pueden crear páginas web impresionantes y personalizadas, de la misma forma
+se pueden implementar mas lenguajes como javascript para meterle funciones ya mas especiales
+para programas y estaria bien verlo a futuro para poder explotar el potencial aun mas.
+
